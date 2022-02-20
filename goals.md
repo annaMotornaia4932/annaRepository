@@ -13,4 +13,4 @@
 * больше времени уделать учебе
 * правильно организовывать свое время
 * выполнять задачи в срок
-This project is a work in progress.
+This project is a work in progress...
